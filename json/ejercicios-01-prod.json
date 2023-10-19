@@ -1,0 +1,24 @@
+{
+    "productos": [
+        {
+            "Nombre": "Agua",
+            "Marca": "Postobon",
+            "Valor": {
+                "Valor de compra": 1000,
+                "Valor de venta": 2000
+            },
+            "Tipo": "Bebida",
+            "Inventario": "AKOL0111"
+        },
+        {
+            "Nombre": "Jabon",
+            "Marca": "Ariel",
+            "Valor": {
+                "Valor de compra": 1000,
+                "Valor de venta": 2000
+            },
+            "Tipo": "Aseo",
+            "Inventario": "AKP00111"
+        }
+    ]
+}
