@@ -2,7 +2,7 @@
 
 ## Ejercicios-01
 
-### JSON-01
+### [JSON-01](https://github.com/norbeydanilo/web-js/blob/main/json/ejercicios-01.json)
 
 Haga un JSON `información` que contenga la siguiente información:
 
@@ -17,7 +17,7 @@ Haga un JSON `información` que contenga la siguiente información:
         2. `Teléfono fijo`
     3. `Dirección`
 
-### JSON-02
+### [JSON-02](https://github.com/norbeydanilo/web-js/blob/main/json/ejercicios-01-prod.json)
 
 Realice un JSON para el siguiente planteamiento:
 
@@ -42,7 +42,7 @@ Para los siguientes productos crear un fichero JSON que represente esta informac
 * `Cerveza`, Poker
 * `Crema dental`, Colgate
 
-## Ejercicios-02
+## [Ejercicios-02](https://github.com/norbeydanilo/web-js/blob/main/json/ejercicios-02.json)
 
 Haga un código que:
 
