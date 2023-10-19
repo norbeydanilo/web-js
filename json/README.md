@@ -42,7 +42,7 @@ Para los siguientes productos crear un fichero JSON que represente esta informac
 * `Cerveza`, Poker
 * `Crema dental`, Colgate
 
-## [Ejercicios-02](https://github.com/norbeydanilo/web-js/blob/main/json/ejercicios-02.json)
+## [Ejercicios-02](https://github.com/norbeydanilo/web-js/blob/main/json/ejercicios-02.js)
 
 Haga un código que:
 
