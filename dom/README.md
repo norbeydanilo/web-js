@@ -18,10 +18,11 @@ Según lo anterior y con base al documento `practica.html` haga un código que:
 “Hay `cantidadElementos` elementos en la lista.”
 5. Genere una lista de todos los elementos `li` y recorra la lista con ayuda de un ciclo
 
-Con ayuda de la propiedad `textContent` agregue el siguiente párrafo a `practica.html`.
+6. Con ayuda de la propiedad `textContent` agregue el siguiente párrafo a `practica.html`.
+
 “En el año 2008 la competición fue llevada a cabo en el Reino Unido en la Universidad deReading en donde se presentaron 13 candidatos de los cuales se seleccionaron 6 programasfinalistas: Alice, Brother Jerome, Elbot, Eugene Goostman, Jabberwacky y Ultra Hal. Los seisprogramas tuvieron que interactuar con los 12 jueces manteniendo una conversaciónmediante un computador durante cinco minutos en donde se plantean una serie de preguntascon el fin de determinar si es un computador o un humano. En la edición del 2008 ningunologré pasar el Test de Turing, aunque el ganador de la medalla de bronce fue el programaElbot, que estuvo muy cerca de pasar esta prueba ya que consiguió convencer a 3 de los 12jueces, es decir el 25% de los jueces pensó que estaba conversando con un ser humano."
 
-g. Con ayuda de la propiedad `innerHTML` agregue el siguiente código HTML a `practica.html`.
+7. Con ayuda de la propiedad `innerHTML` agregue el siguiente código HTML a `practica.html`.
 `<a href="#">Enlace principal</a>`
-h. Agregue el siguiente arreglo a una lista no ordenada a `practica.html` con el título “Meses del año”.
+8. Agregue el siguiente arreglo a una lista no ordenada a `practica.html` con el título “Meses del año”.
 `["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]`

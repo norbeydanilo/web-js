@@ -23,8 +23,12 @@ d.addEventListener("submit", (e) => {
         // que puede estar en uno de los tres estados: pendiente (pending), resuelta (fulfilled) o rechazada (rejected).
         .then(json => {
             console.log(json)
+            // Print the form data in JSON format
+            const formData = Array.from(new FormData(e.target));
+            const data = Object.fromEntries(formData);
+            console.log(JSON.stringify(data));
             $response.classList.remove("none")
-            $form.reset()
+            $form.reset() 
         })
         .catch(err => {
             console.log(err);
