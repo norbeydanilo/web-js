@@ -1,11 +1,22 @@
 # Ejercicio DOM
 
-## Ejercicio-01
+## [Ejemplo básico 01](https://github.com/norbeydanilo/web-js/tree/main/dom/dom-01)
+
+1. Crea en un archivo un esqueleto HTML básico.
+2. Incluye la etiqueta <h1> y <p>
+3. Asignale un ID o CLASS a la etiqueta <p>
+4. Enlaza tu archivo JS al HTML
+5. Usando el método querySelector muestra tu h1 y tu  ID o CLASS en consola.
+6. Muestra en consola el texto dentro de la etiqueta h1.
+
+## [Ejemplo guia](https://github.com/norbeydanilo/web-js/tree/main/dom/dom-guia)
 
 1. Revise el código `index.html`.
 2. Una vez entendió los nodos y elementos del documento HTML, revise el código `1-DOM.js`.
-3. Clone los códigos y ejecútelos en su máquina.
-4. Vuelva al repositorio y clone el archivo `practica.html`
+
+## [Ejercicio-01](https://github.com/norbeydanilo/web-js/tree/main/dom/dom-exercise)
+
+* Revise el archivo `practica.html`
 
 Según lo anterior y con base al documento `practica.html` haga un código que:
 
