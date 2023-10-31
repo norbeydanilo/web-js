@@ -7,6 +7,7 @@ Este repositorio contiene ejercicios, código y explicación sobre:
 * [JSON](https://github.com/norbeydanilo/web-js/tree/main/json)
 * [DOM](https://github.com/norbeydanilo/web-js/tree/main/dom)
 * [API REST 01](https://github.com/norbeydanilo/web-js/tree/main/api-rest-basic)
+* [API REST 02](https://github.com/norbeydanilo/web-js/tree/main/api-rest2-basic)
 
 ## API REST Practice
 
