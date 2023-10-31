@@ -3,11 +3,11 @@
 ## [Ejemplo básico 01](https://github.com/norbeydanilo/web-js/tree/main/dom/dom-01)
 
 1. Crea en un archivo un esqueleto HTML básico.
-2. Incluye la etiqueta <h1> y <p>
-3. Asignale un ID o CLASS a la etiqueta <p>
+2. Incluye la etiqueta `<h1>` y `<p>`
+3. Asignale un ID o CLASS a la etiqueta `<p>`
 4. Enlaza tu archivo JS al HTML
-5. Usando el método querySelector muestra tu h1 y tu  ID o CLASS en consola.
-6. Muestra en consola el texto dentro de la etiqueta h1.
+5. Usando el método `querySelector` muestra tu `h1` y tu  ID o CLASS en consola.
+6. Muestra en consola el texto dentro de la etiqueta `h1`.
 
 ## [Ejemplo guia](https://github.com/norbeydanilo/web-js/tree/main/dom/dom-guia)
 
