@@ -1,3 +1,4 @@
+// usamos window.onload para asegurarnos de que el DOM está completamente cargado antes de intentar acceder al botón.
 window.onload = function () {
     //document.getElementById("parrafo").innerHTML = "Hola Mundo";
     let $h1 = document.querySelector("h1");

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo</title>
+</head>
+<body>
+    <div id="miId" class="miClase">Hola Mundo!</div>
+    <p class="miClase">¡Hola de nuevo!</p>
+    <button id="miBoton">Haz click</button>
+
+    <script>
+        document.getElementById("miBoton").onclick = function() {
+            // Usando getElementById
+            var elementoPorId = document.getElementById("miId");
+            console.log(elementoPorId.textContent);
+
+            // Usando getElementsByClassName
+            var elementosPorClase = document.getElementsByClassName("miClase");
+            for (var i = 0; i < elementosPorClase.length; i++) {
+                console.log(elementosPorClase[i].textContent);
+            }
+
+            // Usando getElementsByTagName
+            var elementosPorTag = document.getElementsByTagName("p");
+            for (var i = 0; i < elementosPorTag.length; i++) {
+                console.log(elementosPorTag[i].textContent);
+            }
+
+            // Usando querySelector
+            var elementoPorSelector = document.querySelector(".miClase");
+            console.log(elementoPorSelector.textContent);
+        }
+    </script>
+</body>
+</html>
